@@ -13,3 +13,5 @@ The project will begin by investigating:
 - Whether stochastic processes such as Markov Chains can provide a useful representation of match dynamics
 
 These are just initial ideas, not fixed ones. These could evolve as the project moves forward. 
+
+Starting with one of the recent papers that goes into a similar track titled 'A Bayesian bivariate conditional Poisson regression for goal dependence in the English Premier League' by Nolan et.al. 
