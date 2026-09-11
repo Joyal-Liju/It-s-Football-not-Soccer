@@ -78,3 +78,6 @@ The interpretation is :
 (Some More stuff to add)
 
 ##### Regression Model
+The BCP model is extended using the explanatory features mentioned earlier (attendance and fouls)
+
+
