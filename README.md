@@ -15,3 +15,5 @@ The project will begin by investigating:
 These are just initial ideas, not fixed ones. These could evolve as the project moves forward. 
 
 Starting with one of the recent papers that goes into a similar track titled 'A Bayesian bivariate conditional Poisson regression for goal dependence in the English Premier League' by Nolan et.al. 
+
+Researched further about what all kind of models have been used/ previous works on the related field
