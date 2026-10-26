@@ -17,3 +17,9 @@ These are just initial ideas, not fixed ones. These could evolve as the project 
 Starting with one of the recent papers that goes into a similar track titled 'A Bayesian bivariate conditional Poisson regression for goal dependence in the English Premier League' by Nolan et.al. 
 
 Researched further about what all kind of models have been used/ previous works on the related field
+
+---------------------------------------------
+
+After researching about analyzing football, I learnt that multiple models do that. For example, leagues like LA Liga use multiple cameras, and analyze up to 2.5 million data live during a match, and their model is capable of predicting it during the match. These data is used to calculate possession, shots, corner- kick landing places chances etc. 
+
+Now I do want to develop a model that is able to analyze videos and should be able to track players of different teams. 
